@@ -13,6 +13,8 @@ A média de gols da equipe é 16,1.
 O maior número de gols é 18 e o artilheiro está na posição X do VetorTime 
 
 PROVA B
+
+
 “Desenvolva um programa capaz de registrar 11 números inteiros aleatórios no intervalo de 0 a 100 em um vetor e identificar quantos valores são menores que a média dos valores armazenados no vetor. O nome do vetor deverá seguir a regra q1_XX onde XX é o seu número de chamada.
 
 	Saídas do Programa
